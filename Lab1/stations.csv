@@ -1,0 +1,163 @@
+;empty_slots;extra;free_bikes;id;latitude;longitude;name;timestamp;dist
+0;0;{'number': 2, 'reviews': 1671, 'score': 4.6, 'status': 'online', 'uid': '251'};0;15af4cdd63c01ecaf5851e36c8faf608;45.082462;7.695677;Bologna;2020-10-11T16:55:41.761000Z;
+1;14;{'number': 3, 'reviews': 351, 'score': 3.3, 'status': 'online', 'uid': '252'};1;248d4542158dc35ace927f698f059a14;45.073442;7.668313;Porta Susa 2;2020-10-11T16:55:41.761000Z;5499663.466125555
+2;13;{'number': 4, 'reviews': 338, 'score': 3.9, 'status': 'online', 'uid': '253'};0;9f705b5e090de99e976f4ac6c6911571;45.072882;7.667951;Porta Susa 1;2020-10-11T16:55:41.761000Z;
+3;14;{'number': 5, 'reviews': 221, 'score': 3.4, 'status': 'online', 'uid': '254'};0;53a856e2cd42e9bfbc022f6cdc6d2e1c;45.072642;7.670337;Cernaia;2020-10-11T16:55:41.761000Z;
+4;3;{'number': 6, 'reviews': 217, 'score': 3.5, 'status': 'online', 'uid': '255'};3;2bf7fcbcdd03427d49d057a3f4d4b378;45.075438;7.673785;Valdocco 2;2020-10-11T16:55:41.761000Z;5499446.840214568
+5;8;{'number': 8, 'reviews': 362, 'score': 3.5, 'status': 'online', 'uid': '257'};2;62e1229a487243fb01fa03af26e69b01;45.078044;7.675665;Valdocco;2020-10-11T16:55:41.761000Z;5499492.083967806
+6;10;{'number': 9, 'reviews': 332, 'score': 3.9, 'status': 'online', 'uid': '258'};1;8e8de5efc9bbc722629d8956c897bdea;45.075794;7.677993;Consolata;2020-10-11T16:55:41.761000Z;5499206.794523559
+7;9;{'number': 10, 'reviews': 397, 'score': 4.3, 'status': 'offline', 'uid': '259'};0;0904053b19a69a368ca1b25448ac6aa6;45.063835;7.676327;Vittorio Emanuele II 6;2020-10-11T16:55:41.761000Z;
+8;9;{'number': 11, 'reviews': 537, 'score': 4.0, 'status': 'online', 'uid': '260'};1;3c1c5c0914a37de93c7f62ffedfcfa93;45.070527;7.682217;Pietro Micca;2020-10-11T16:55:41.761000Z;5498615.399424485
+9;8;{'number': 12, 'reviews': 297, 'score': 4.0, 'status': 'online', 'uid': '261'};2;daa3408cf489d582d20393c4394e2444;45.074394;7.678886;Corte d`Appello;2020-10-11T16:55:41.761000Z;5499063.907627596
+10;8;{'number': 14, 'reviews': 327, 'score': 2.6, 'status': 'online', 'uid': '262'};2;77e77de1eeff89cff817a0616b6c76b6;45.076228;7.671769;Statuto 2;2020-10-11T16:55:41.761000Z;5499621.710572311
+11;6;{'number': 16, 'reviews': 319, 'score': 4.0, 'status': 'online', 'uid': '264'};1;39ca8cd6625f0bfc3b1befb8578e27c3;45.078825;7.701405;Cimitero Monumentale;2020-10-11T16:55:41.761000Z;5497936.931038009
+12;11;{'number': 17, 'reviews': 317, 'score': 4.0, 'status': 'online', 'uid': '265'};1;7bab9c15c77104412b391ebe188346af;45.07396293061647;7.684050574676576;Porta Palatina;2020-10-11T16:55:41.761000Z;5498715.238366807
+13;17;{'number': 18, 'reviews': 823, 'score': 4.5, 'status': 'online', 'uid': '266'};2;7c3aec60b271b1e9ad200b335f499255;45.073368;7.682284;IV Marzo;2020-10-11T16:55:41.761000Z;5498788.24215283
+14;0;{'number': 19, 'reviews': 295, 'score': 4.3, 'status': 'offline', 'uid': '267'};0;b5bad95a1b0a65fd05427bb1ba2f550e;45.058787;7.690584;Cairoli;2020-10-11T16:55:41.761000Z;
+15;15;{'number': 20, 'reviews': 761, 'score': 3.9, 'status': 'offline', 'uid': '268'};1;c46028ebd266fe2c7b53d1f1cce524fc;45.073561;7.676598;Arbarello;2020-10-11T16:55:41.761000Z;5499154.574515647
+16;7;{'number': 21, 'reviews': 562, 'score': 4.4, 'status': 'online', 'uid': '269'};2;e06cf96c3ac62ab24e57101e1bcfbb2d;45.055278;7.663961;Galileo Ferraris 1;2020-10-11T16:55:41.761000Z;5498802.760260747
+17;5;{'number': 22, 'reviews': 231, 'score': 3.9, 'status': 'online', 'uid': '270'};0;d7f5ecd55ceed0185b735902d69c98ec;45.063029;7.678823;Porta Nuova 1;2020-10-11T16:55:41.761000Z;
+18;0;{'number': 23, 'reviews': 1290, 'score': 4.4, 'status': 'offline', 'uid': '271'};0;74d171b578136bcb9a95bc25ebe654ee;45.0691;7.701921;Bava;2020-10-11T16:55:41.761000Z;
+19;10;{'number': 24, 'reviews': 344, 'score': 4.1, 'status': 'online', 'uid': '272'};0;a5b4759d61ccf764cfaef64a35827403;45.072944;7.665808;Inghilterra 1;2020-10-11T16:55:41.761000Z;
+20;10;{'number': 25, 'reviews': 706, 'score': 4.5, 'status': 'online', 'uid': '273'};4;9e58b009669cc416db675858c8f06e95;45.071713;7.707736;Tortona;2020-10-11T16:55:41.761000Z;5497099.55319487
+21;1;{'number': 26, 'reviews': 115, 'score': 3.8, 'status': 'online', 'uid': '274'};4;f87af570c508e46496985c4149f16b49;45.06833588690814;7.676250219345093;Solferino 2;2020-10-11T16:55:41.761000Z;5498850.655880729
+22;13;{'number': 27, 'reviews': 126, 'score': 3.9, 'status': 'online', 'uid': '275'};4;cfe425768bb13389901d90f416fac748;45.069258;7.675946;Meucci;2020-10-11T16:55:41.761000Z;5498927.069667926
+23;2;{'number': 28, 'reviews': 185, 'score': 3.8, 'status': 'online', 'uid': '276'};0;35696172dd6ffaea0ea9cb0fc5d80ec8;45.066323;7.674766;Matteotti 1;2020-10-11T16:55:41.761000Z;
+24;4;{'number': 29, 'reviews': 173, 'score': 4.0, 'status': 'online', 'uid': '277'};2;667249c62f287db7e329d77771d9cf41;45.064211;7.678759;Paleocapa;2020-10-11T16:55:41.761000Z;5498437.330066616
+25;9;{'number': 30, 'reviews': 268, 'score': 4.2, 'status': 'online', 'uid': '278'};2;f5b3628e27aa72a5831298af6f04a0fe;45.068058;7.670345;Matteotti 2;2020-10-11T16:55:41.761000Z;5499201.310769849
+26;14;{'number': 31, 'reviews': 502, 'score': 4.1, 'status': 'online', 'uid': '279'};0;4e8b78ae051b1ec0ae1e3461890f189d;45.068813;7.667955;Matteotti 3;2020-10-11T16:55:41.761000Z;
+27;0;{'number': 32, 'reviews': 269, 'score': 4.2, 'status': 'offline', 'uid': '280'};0;f07451d923582c3ed9d7d698107aa4c4;45.066871;7.671472;Galileo Ferraris 5;2020-10-11T16:55:41.761000Z;
+28;6;{'number': 33, 'reviews': 86, 'score': 3.3, 'status': 'online', 'uid': '281'};1;ab72fb0727dabf331ac0796cfb7ff70f;45.071389;7.666648;Bolzano;2020-10-11T16:55:41.761000Z;5499639.285248437
+29;0;{'number': 13, 'reviews': 332, 'score': 4.2, 'status': 'offline', 'uid': '282'};0;00f2c0f0fac1e5e723bc87d0fd6b90f3;45.067018;7.666677;Vittorio Emanuele II 1;2020-10-11T16:55:41.761000Z;
+30;5;{'number': 34, 'reviews': 420, 'score': 3.6, 'status': 'online', 'uid': '283'};4;ea60ce76df79dded12926aceb21f64ff;45.067595;7.66577;Vittorio Emanuele II 2;2020-10-11T16:55:41.761000Z;5499457.559077382
+31;1;{'number': 35, 'reviews': 255, 'score': 4.1, 'status': 'online', 'uid': '284'};1;583e2a7684d746923ce519089b6e9447;45.054361;7.675643;Nizza 2;2020-10-11T16:55:41.761000Z;5498017.793375678
+32;11;{'number': 36, 'reviews': 525, 'score': 4.4, 'status': 'online', 'uid': '285'};0;98429a4e5f54ed15e8f8a58093f55227;45.064639;7.673306;Vittorio Emanuele II 3;2020-10-11T16:55:41.761000Z;
+33;14;{'number': 37, 'reviews': 285, 'score': 3.8, 'status': 'online', 'uid': '286'};0;521c60f663967bf1ccd6570da04b715f;45.062814;7.679367;Porta Nuova 2;2020-10-11T16:55:41.761000Z;
+34;4;{'number': 38, 'reviews': 330, 'score': 4.0, 'status': 'online', 'uid': '287'};6;303a69d345b44b6f299bbd46c7f28b47;45.07917;7.69827;Padova;2020-10-11T16:55:41.761000Z;5498153.730250432
+35;8;{'number': 39, 'reviews': 171, 'score': 3.6, 'status': 'online', 'uid': '288'};1;33714b6419767c5e680c7e4d26166ce3;45.063477;7.68087;Lagrange;2020-10-11T16:55:41.761000Z;5498260.077992835
+36;9;{'number': 41, 'reviews': 271, 'score': 3.8, 'status': 'online', 'uid': '290'};1;d59181aba3646ad37cab8ae54cbecebc;45.066101;7.682206;CLN;2020-10-11T16:55:41.761000Z;5498340.323370637
+37;7;{'number': 42, 'reviews': 177, 'score': 3.2, 'status': 'online', 'uid': '291'};2;12cfe32e7bb1c6f0d1b3d84ee82d39c8;45.067115;7.678052;Arcivescovado;2020-10-11T16:55:41.761000Z;5498662.316754119
+38;3;{'number': 43, 'reviews': 331, 'score': 4.2, 'status': 'online', 'uid': '292'};1;29429131a6fe32729fb1e4dc5e582c70;45.066514;7.683693;Giolitti 1;2020-10-11T16:55:41.761000Z;5498273.410584015
+39;8;{'number': 45, 'reviews': 355, 'score': 4.3, 'status': 'offline', 'uid': '294'};2;7448dbc6ff21976efad0893651c90a85;45.069936;7.682373;Bertola;2020-10-11T16:55:41.761000Z;5498568.856442991
+40;7;{'number': 46, 'reviews': 823, 'score': 4.2, 'status': 'online', 'uid': '295'};1;8d0923df4f487be62b1d41b9229714b1;45.060042;7.65628;Lione;2020-10-11T16:55:41.761000Z;5499578.272761629
+41;4;{'number': 47, 'reviews': 213, 'score': 4.2, 'status': 'online', 'uid': '296'};1;6f7549bea746384a7a9868d1f8785f1c;45.071445;7.68806;Castello 1;2020-10-11T16:55:41.761000Z;5498308.549012723
+42;0;{'number': 48, 'reviews': 186, 'score': 4.0, 'status': 'online', 'uid': '297'};0;8445975fcb2fd864e381ddf09407057b;45.064764;7.664944;Stati Uniti 1;2020-10-11T16:55:41.761000Z;
+43;9;{'number': 49, 'reviews': 266, 'score': 3.9, 'status': 'online', 'uid': '298'};1;44f0d7cd1a80641e5efcb16e15870c9f;45.070049;7.68645;Castello 2;2020-10-11T16:55:41.761000Z;5498321.881753968
+44;6;{'number': 51, 'reviews': 574, 'score': 4.4, 'status': 'online', 'uid': '300'};1;13e6512cfbf9d0437198b6dcd9025752;45.071931;7.69262;San Maurizio;2020-10-11T16:55:41.761000Z;5498054.736382093
+45;0;{'number': 52, 'reviews': 297, 'score': 4.1, 'status': 'offline', 'uid': '301'};0;8a3a53282bb598dd7af17e701d9800ff;45.068872;7.691291;RAI;2020-10-11T16:55:41.761000Z;
+46;4;{'number': 54, 'reviews': 207, 'score': 4.0, 'status': 'online', 'uid': '303'};2;7dcf829c0482125b211b89eb5844b675;45.068576;7.69437;Universita` 1;2020-10-11T16:55:41.761000Z;5497736.712957796
+47;5;{'number': 56, 'reviews': 142, 'score': 3.9, 'status': 'online', 'uid': '305'};1;f416d5b5054eeb6ba66b5d3cfa1a6576;45.067696;7.691789;Universita`3;2020-10-11T16:55:41.761000Z;5497842.67662475
+48;10;{'number': 116, 'reviews': 432, 'score': 4.4, 'status': 'online', 'uid': '306'};1;5d14bc0345ad76855d580fa56d27127f;45.068205;7.662287;Castelfidardo;2020-10-11T16:55:41.761000Z;5499712.63848197
+49;1;{'number': 57, 'reviews': 222, 'score': 4.0, 'status': 'online', 'uid': '307'};0;bfa12cb895ac0d7392dde60b6b433cdf;45.068617;7.689097;San Francesco da Paola;2020-10-11T16:55:41.761000Z;
+50;0;{'number': 58, 'reviews': 186, 'score': 3.9, 'status': 'offline', 'uid': '308'};0;fa542128c27969894f2d17b1e2e20217;45.06806;7.686688;Carlo Alberto;2020-10-11T16:55:41.761000Z;
+51;0;{'number': 60, 'reviews': 248, 'score': 4.2, 'status': 'maintenance', 'uid': '310'};0;e1e0e964fa1d00f99c5d57542fcde36a;45.06678642519523;7.68892228603363;Piazza Carlina;2020-10-11T16:55:41.761000Z;
+52;1;{'number': 61, 'reviews': 116, 'score': 3.8, 'status': 'online', 'uid': '311'};0;5fec3710584f4dd43dec9aa89b24087a;45.064756;7.68635;Valdo Fusi;2020-10-11T16:55:41.761000Z;
+53;0;{'number': 63, 'reviews': 366, 'score': 4.2, 'status': 'online', 'uid': '313'};1;1e13062df679b8d771bf2647b0fedf9b;45.063371;7.684235;Bodoni;2020-10-11T16:55:41.761000Z;5498043.834112826
+54;0;{'number': 64, 'reviews': 174, 'score': 3.9, 'status': 'online', 'uid': '314'};1;4f7e6afbdf3affdc419a293342ebb1ab;45.060394;7.685138;Vittorio Emanuele II 5;2020-10-11T16:55:41.761000Z;5497802.1223206
+55;3;{'number': 66, 'reviews': 119, 'score': 4.0, 'status': 'online', 'uid': '316'};2;df5fcc9ba6234a6732ad0a73dcf0d560;45.064114;7.690438;Giolitti 2;2020-10-11T16:55:41.761000Z;5497703.69718076
+56;0;{'number': 67, 'reviews': 84, 'score': 3.8, 'status': 'online', 'uid': '317'};5;2703d498858c74efb1028a04355e954d;45.06513;7.692299;Maria Vittoria;2020-10-11T16:55:41.761000Z;5497651.059343087
+57;0;{'number': 68, 'reviews': 272, 'score': 4.3, 'status': 'offline', 'uid': '318'};0;03bc5daeb184427e46b2f9a75c26175f;45.065162;7.693616;Vittorio Veneto 2;2020-10-11T16:55:41.761000Z;
+58;0;{'number': 69, 'reviews': 268, 'score': 4.0, 'status': 'offline', 'uid': '319'};0;c162505446e5b624d0bc6c90fd405b3d;45.061696;7.693865;Murazzi;2020-10-11T16:55:41.761000Z;
+59;16;{'number': 71, 'reviews': 247, 'score': 4.1, 'status': 'online', 'uid': '321'};1;75be188ad8a1e26e09b945659599c2c1;45.066582;7.661789;O.G.R.;2020-10-11T16:55:41.761000Z;5499642.525976678
+60;2;{'number': 72, 'reviews': 315, 'score': 4.1, 'status': 'online', 'uid': '322'};5;bc0d271171ddcc3207f46cf00c738975;45.058046;7.6935;Fiume;2020-10-11T16:55:41.761000Z;5497134.993467707
+61;2;{'number': 73, 'reviews': 273, 'score': 3.6, 'status': 'online', 'uid': '323'};0;d42095306bf3c7c5c97f24724959315a;45.063058;7.698453;Gran Madre;2020-10-11T16:55:41.761000Z;
+62;5;{'number': 76, 'reviews': 785, 'score': 4.0, 'status': 'online', 'uid': '326'};0;808f2aa41bc2dc947db6bfe6585fc133;45.054267;7.678409;Belfiore;2020-10-11T16:55:41.761000Z;
+63;16;{'number': 78, 'reviews': 1116, 'score': 4.1, 'status': 'online', 'uid': '328'};1;8fe5434fe7ec6c7e1c1fa865ce2d3444;45.069123;7.720369;Carrara;2020-10-11T16:55:41.761000Z;5496151.494200323
+64;0;{'number': 79, 'reviews': 707, 'score': 4.3, 'status': 'online', 'uid': '329'};0;56ac4933540413aa2cd3c7869d11bd18;45.073547;7.717059;Belgio 2;2020-10-11T16:55:41.761000Z;
+65;14;{'number': 80, 'reviews': 763, 'score': 4.1, 'status': 'online', 'uid': '330'};0;efae041ff574cf0f3378eb1a076cb64a;45.063806;7.66945;Galileo Ferraris 4;2020-10-11T16:55:41.761000Z;
+66;8;{'number': 81, 'reviews': 1406, 'score': 4.1, 'status': 'online', 'uid': '331'};2;b43271bb186d10877c29e96d86e7aff3;45.05943;7.670561;Re Umberto;2020-10-11T16:55:41.761000Z;5498650.229106386
+67;2;{'number': 82, 'reviews': 673, 'score': 4.0, 'status': 'online', 'uid': '332'};5;ebaf3909a7b4d4db160e393e6f8621fd;45.056012;7.668118;Re Umberto 2;2020-10-11T16:55:41.761000Z;5498589.479843965
+68;2;{'number': 83, 'reviews': 702, 'score': 4.3, 'status': 'online', 'uid': '333'};1;59ba0927ce2b4e72bde333ebfa9fd4e5;45.05712134640028;7.6653215289115915;Galileo Ferraris 2;2020-10-11T16:55:41.761000Z;5498832.844521196
+69;0;{'number': 84, 'reviews': 154, 'score': 4.1, 'status': 'offline', 'uid': '334'};0;4e8a8ea53e1bdcb4c9d92999c66a77e9;45.062132;7.663007;Politecnico 2;2020-10-11T16:55:41.761000Z;
+70;6;{'number': 85, 'reviews': 310, 'score': 4.0, 'status': 'online', 'uid': '335'};0;e83007cd520a046bfa032cfe75d5889b;45.060759;7.661325;Politecnico 3;2020-10-11T16:55:41.761000Z;
+71;5;{'number': 86, 'reviews': 331, 'score': 2.7, 'status': 'online', 'uid': '336'};1;d5d84b0de5b967198d467baeb5b02c65;45.064101;7.659946;Politecnico 4;2020-10-11T16:55:41.761000Z;5499602.764902376
+72;2;{'number': 87, 'reviews': 364, 'score': 4.1, 'status': 'online', 'uid': '337'};0;8d905cb233d02886d288c0185f870832;45.07084597193492;7.6612794399261475;Tribunale;2020-10-11T16:55:41.761000Z;
+73;8;{'number': 88, 'reviews': 1906, 'score': 4.0, 'status': 'online', 'uid': '338'};1;7aacdceecb6143183185e9d182821fe3;45.073304;7.662401;Principi d`Acaja 1;2020-10-11T16:55:41.761000Z;5500023.328496858
+74;6;{'number': 89, 'reviews': 654, 'score': 4.1, 'status': 'online', 'uid': '339'};2;d21b21a3780ccd3198e2b72afb3b0a82;45.075859;7.664055;Principi d`Acaja 2;2020-10-11T16:55:41.761000Z;5500079.485689503
+75;0;{'number': 90, 'reviews': 1247, 'score': 4.0, 'status': 'offline', 'uid': '340'};0;e2b1ee06b8991ce41ab05a1dc2645c41;45.07617;7.655561;Bernini;2020-10-11T16:55:41.761000Z;
+76;0;{'number': 91, 'reviews': 558, 'score': 3.7, 'status': 'online', 'uid': '341'};3;ae8eae4419e7c094b6365228f6eac681;45.070719;7.655975;Adriano;2020-10-11T16:55:41.761000Z;5500262.73399855
+77;7;{'number': 92, 'reviews': 1491, 'score': 4.5, 'status': 'online', 'uid': '342'};2;92b1ecbf2a2372db24c7c9b1c907965a;45.057097;7.661246;De Gasperi;2020-10-11T16:55:41.761000Z;5499085.281162046
+78;1;{'number': 93, 'reviews': 538, 'score': 4.1, 'status': 'online', 'uid': '343'};0;c91f8184077b22c31dff9c0ea96184dd;45.07235;7.697286;Regina Margherita 2;2020-10-11T16:55:41.761000Z;
+79;7;{'number': 96, 'reviews': 518, 'score': 4.4, 'status': 'online', 'uid': '346'};3;38d1439b1df809b01429cd75224c1581;45.076832;7.694134;Regio Parco;2020-10-11T16:55:41.761000Z;5498265.747454134
+80;0;{'number': 97, 'reviews': 150, 'score': 4.1, 'status': 'online', 'uid': '347'};0;c37dddd62e523094fe99c8ec2ed3c5f1;45.065482;7.698692;Lungo Po Cadorna;2020-10-11T16:55:41.761000Z;
+81;5;{'number': 98, 'reviews': 224, 'score': 4.1, 'status': 'online', 'uid': '348'};0;93d1d41761adc26f853a3d82987f0d57;45.067323;7.696805;Giulia di Barolo;2020-10-11T16:55:41.761000Z;
+82;10;{'number': 99, 'reviews': 390, 'score': 4.1, 'status': 'online', 'uid': '349'};1;f8e8e458ac9f1f04ad3c774effe5ae54;45.069556;7.705674;Regina Margherita 1;2020-10-11T16:55:41.761000Z;5497093.636130316
+83;11;{'number': 100, 'reviews': 583, 'score': 4.3, 'status': 'online', 'uid': '350'};0;1916e772eb3e6c88b37a0f584da1e333;45.073583;7.692797;Regina Margherita 3;2020-10-11T16:55:41.761000Z;
+84;0;{'number': 102, 'reviews': 633, 'score': 4.0, 'status': 'offline', 'uid': '352'};0;abb21913f56f0169dcd6c8102d6b2337;45.06714;7.708391;Borromini;2020-10-11T16:55:41.761000Z;
+85;2;{'number': 107, 'reviews': 158, 'score': 3.2, 'status': 'online', 'uid': '357'};0;9a1ff6add93143ae371db6244ac33e9d;45.061593;7.682342;Vittorio Emanuele II 4;2020-10-11T16:55:41.761000Z;
+86;15;{'number': 108, 'reviews': 264, 'score': 4.1, 'status': 'online', 'uid': '358'};0;fa9a021c19bb407a271ea6a9bb34bd39;45.062387;7.662494;Politecnico 1;2020-10-11T16:55:41.761000Z;
+87;1;{'number': 110, 'reviews': 696, 'score': 4.1, 'status': 'online', 'uid': '360'};1;163be8fb0f20f48da88c5200c1d141b5;45.063828;7.65582;Ferrucci;2020-10-11T16:55:41.761000Z;5499842.894961702
+88;0;{'number': 112, 'reviews': 648, 'score': 4.4, 'status': 'online', 'uid': '362'};3;b5a8b6b959f78754cb9be3da9ac79def;45.042579;7.670913;Carducci;2020-10-11T16:55:41.761000Z;5497578.488705476
+89;7;{'number': 113, 'reviews': 292, 'score': 4.3, 'status': 'online', 'uid': '363'};2;b76c89db641fe1598a58fb8db0fc5ce5;45.042244;7.673145;Molinette 1;2020-10-11T16:55:41.761000Z;5497418.5884526605
+90;1;{'number': 114, 'reviews': 562, 'score': 4.1, 'status': 'online', 'uid': '364'};1;fb7703a90978c8c7761a2c993cf8c0bb;45.042809;7.677524;Molinette 2;2020-10-11T16:55:41.761000Z;5497181.022658708
+91;1;{'number': 115, 'reviews': 297, 'score': 3.9, 'status': 'online', 'uid': '365'};1;f005ea61d3e30081be3ef5a02d696ac2;45.059594;7.666946;Galileo Ferraris 3;2020-10-11T16:55:41.761000Z;5498885.695111196
+92;0;{'number': 117, 'reviews': 387, 'score': 4.4, 'status': 'offline', 'uid': '554'};0;3bae7415d8eb21cd1144b69dc45f7f3b;45.087202;7.66976;Livorno;2020-10-11T16:55:41.761000Z;
+93;2;{'number': 118, 'reviews': 1103, 'score': 4.5, 'status': 'online', 'uid': '596'};4;41e2bbbe98e07770f0fef01e3f8cb91f;45.082828;7.6698;Umbria;2020-10-11T16:55:41.761000Z;5500155.775876789
+94;0;{'number': 119, 'reviews': 108, 'score': 4.2, 'status': 'offline', 'uid': '888'};0;94fb494abcb6323bee9726f8b2950ff4;45.08707;7.669196;Livorno 2;2020-10-11T16:55:41.761000Z;
+95;1;{'number': 120, 'reviews': 2155, 'score': 4.6, 'status': 'online', 'uid': '889'};0;b91ce9da90d7f92af93809aa5052a606;45.032835;7.671633;Ventimiglia;2020-10-11T16:55:41.761000Z;
+96;0;{'number': 145, 'reviews': 189, 'score': 4.3, 'status': 'online', 'uid': '892'};0;727e3cb4f59b890bc24337472b9ffd0a;45.04959141529801;7.6540403497680245;Piazza d'Armi 2;2020-10-11T16:55:41.761000Z;
+97;2;{'number': 122, 'reviews': 28, 'score': 4.4, 'status': 'online', 'uid': '1226'};0;80985a9063347ab86abae8211ae7fadf;45.035578;7.668657;Nizza 3;2020-10-11T16:55:41.761000Z;
+98;0;{'number': 124, 'reviews': 80, 'score': 2.0, 'status': 'online', 'uid': '1228'};1;d57f77196851a248f892519c64cd3738;45.031282;7.666638;Lingotto Fiere;2020-10-11T16:55:41.761000Z;5497141.097445761
+99;0;{'number': 137, 'reviews': 24, 'score': 3.7, 'status': 'online', 'uid': '1237'};0;5b6291a3e07d71724308661df3510846;45.07584019356755;7.6439435276126915;Rivoli;2020-10-11T16:55:41.761000Z;
+100;0;{'number': 141, 'reviews': 16, 'score': 3.6, 'status': 'offline', 'uid': '1239'};0;32f9e7bc39fd1048bf91327552c8e80b;45.02228490634045;7.635597288608551;Caio Mario;2020-10-11T16:55:41.762000Z;
+101;2;{'number': 154, 'reviews': 28, 'score': 4.0, 'status': 'online', 'uid': '1252'};0;d998a308cf88b664d1ee27224c39b480;45.06113273031591;7.644819559472467;Robilant;2020-10-11T16:55:41.762000Z;
+102;0;{'number': 156, 'reviews': 293, 'score': 0.8, 'status': 'offline', 'uid': '1254'};0;b963a768b7bf0d83fbdc79ca5120f883;45.066087867947004;7.645260159524469;Peschiera;2020-10-11T16:55:41.762000Z;
+103;2;{'number': 157, 'reviews': 49, 'score': 4.3, 'status': 'online', 'uid': '1255'};1;f774b352bfa54c8031388c9d35a3e3e7;45.07048048014438;7.647057488959149;Moretta;2020-10-11T16:55:41.762000Z;5500803.735322994
+104;1;{'number': 158, 'reviews': 37, 'score': 4.4, 'status': 'online', 'uid': '1256'};3;aa5d4ac2a68a82af44bca6d2bb27fb40;45.065321577059734;7.648423593744269;Sabotino;2020-10-11T16:55:41.762000Z;5500396.995332006
+105;7;{'number': 159, 'reviews': 10, 'score': 3.6, 'status': 'online', 'uid': '1257'};4;06e1f29b786534198448d2caf7ddd6ac;45.07358879689483;7.648082971572876;Vittorio Emanuele II 7;2020-10-11T16:55:41.762000Z;5500933.578013739
+106;0;{'number': 160, 'reviews': 11, 'score': 3.6, 'status': 'offline', 'uid': '1258'};0;302872d843ea52f1ba7ff4d5c4268b97;45.076115564718755;7.648957371711731;Svizzera;2020-10-11T16:55:41.762000Z;
+107;8;{'number': 161, 'reviews': 29, 'score': 4.2, 'status': 'online', 'uid': '1259'};2;cdc0d3585fb54d26f556e5d3957ce0af;45.079653472984305;7.6521774704654035;Risorgimento;2020-10-11T16:55:41.762000Z;5501056.401327846
+108;8;{'number': 163, 'reviews': 213, 'score': 4.5, 'status': 'offline', 'uid': '1261'};0;2d28a5314b2f461921e9643050d96b5a;45.08098666056683;7.656147229534554;Tassoni;2020-10-11T16:55:41.762000Z;
+109;0;{'number': 164, 'reviews': 11, 'score': 4.2, 'status': 'offline', 'uid': '1262'};0;986c0bdf4fc323565f464bb237b71601;45.077852416035995;7.665994763374329;Cibrario;2020-10-11T16:55:41.762000Z;
+110;0;{'number': 165, 'reviews': 11, 'score': 3.8, 'status': 'offline', 'uid': '1263'};0;0eafc96c0edfdd4edde572db75373afe;45.08046772115924;7.666537769311503;Saccarelli;2020-10-11T16:55:41.762000Z;
+111;0;{'number': 166, 'reviews': 19, 'score': 4.4, 'status': 'offline', 'uid': '1264'};0;e241572aea5e721bfc4db927da09ad98;45.08291871994802;7.664605379104614;Regina Margherita 5;2020-10-11T16:55:41.762000Z;
+112;0;{'number': 167, 'reviews': 5, 'score': 2.6, 'status': 'online', 'uid': '1265'};0;4d318f002c20fb1ca2c8c7ddb46ef805;45.081130886796466;7.670999765396118;Regina Margherita 6;2020-10-11T16:55:41.762000Z;
+113;0;{'number': 170, 'reviews': 18, 'score': 3.8, 'status': 'offline', 'uid': '1268'};0;6b796f7fc028beb55a83479590dedd5c;45.0819664295941;7.6783523550170685;Cigna;2020-10-11T16:55:41.762000Z;
+114;0;{'number': 171, 'reviews': 25, 'score': 4.3, 'status': 'under construction', 'uid': '1269'};0;dcb2f0fb0f4cde51c1d5cc0de5750fb3;45.09318172721264;7.671069413491864;Orvieto;2020-10-11T16:55:41.762000Z;
+115;14;{'number': 172, 'reviews': 26, 'score': 4.3, 'status': 'online', 'uid': '1270'};0;6b8d29e07224df9def5b3d30cee5764d;45.070062243622175;7.728140866352533;Chieri;2020-10-11T16:55:41.762000Z;
+116;0;{'number': 173, 'reviews': 294, 'score': 29.8, 'status': 'online', 'uid': '1271'};0;58f7143ae8989f692b5556dd80cbe3b0;45.0842724340985;7.6739259744522315;Oddone;2020-10-11T16:55:41.762000Z;
+117;0;{'number': 174, 'reviews': 67, 'score': 4.4, 'status': 'offline', 'uid': '1272'};0;7ba85e893350432b85955e9013bc53ca;45.08930640782924;7.6774734440934935;Baldissera;2020-10-11T16:55:41.762000Z;
+118;6;{'number': 180, 'reviews': 19, 'score': 4.2, 'status': 'online', 'uid': '1278'};1;9a3684098e30e4a3f17120dc6acb9e07;45.07556073583748;7.730172569923184;Pasini;2020-10-11T16:55:41.762000Z;5495941.904795073
+119;0;{'number': 182, 'reviews': 45, 'score': 4.3, 'status': 'under construction', 'uid': '1280'};0;e36dc6e5925110548ffc660b33b9dab1;45.086440550164724;7.692694937698889;Novara;2020-10-11T16:55:41.762000Z;
+120;6;{'number': 185, 'reviews': 22, 'score': 3.7, 'status': 'online', 'uid': '1283'};0;c87bae7ba944a8aa0b47206485e3376a;45.074487858750786;7.72372788773157;Belgio 3;2020-10-11T16:55:41.762000Z;
+121;0;{'number': 1, 'reviews': 72, 'score': 4.0, 'status': 'offline', 'uid': '537'};0;f01c3eb11d001cdeb048c5153d2312ae;45.04440354326403;7.617623805999756;01. Gerbido;2020-10-11T16:55:41.799000Z;
+122;0;{'number': 2, 'reviews': 26, 'score': 3.4, 'status': 'offline', 'uid': '538'};0;bc312c77398b36b68dcc11a936231be8;45.067519551794994;7.563056945800781;02. Fabbrichetta;2020-10-11T16:55:41.799000Z;
+123;0;{'number': 3, 'reviews': 28, 'score': 3.9, 'status': 'offline', 'uid': '539'};0;d5b824f8f0b24055820952cae13d8eb6;45.056364402185814;7.580995559692383;03. Borgo;2020-10-11T16:55:41.799000Z;
+124;0;{'number': 4, 'reviews': 112, 'score': 4.2, 'status': 'offline', 'uid': '540'};0;efb9906681ca572faa6c528c55856187;45.06171490180712;7.581188678741455;04. Villa Claretta;2020-10-11T16:55:41.799000Z;
+125;0;{'number': 5, 'reviews': 44, 'score': 1.2, 'status': 'offline', 'uid': '541'};0;6ada4564cfb797b8829b59ec7742e2ed;45.06479159126726;7.588076591491699;05. Universita`;2020-10-11T16:55:41.799000Z;
+126;0;{'number': 6, 'reviews': 32, 'score': 3.2, 'status': 'online', 'uid': '542'};7;d38e65d832c8d32a5e9d6547144e35f5;45.063139596328625;7.5768327713012695;06. Le Serre;2020-10-11T16:55:41.799000Z;5504725.596496305
+127;0;{'number': 7, 'reviews': 23, 'score': 2.5, 'status': 'offline', 'uid': '543'};0;ffd596ecd472bfa10fd38a9685f17c8c;45.06829245027643;7.599577903747559;07. Stazione Ferroviaria Paradiso;2020-10-11T16:55:41.799000Z;
+128;0;{'number': 8, 'reviews': 4, 'score': 3.5, 'status': 'online', 'uid': '1186'};1;22743c60546a6b5713094662d6940f4e;45.06566411992803;7.579057797622681;08. Lupo;2020-10-11T16:55:41.799000Z;5504744.283672541
+129;0;{'number': 1, 'reviews': 27, 'score': 3.1, 'status': 'offline', 'uid': '529'};0;8c12fcd7311c98e9a948af38caa4d051;45.084126990755045;7.575631141662598;01. Certosa / P.le Avis;2020-10-11T16:55:41.830000Z;
+130;2;{'number': 2, 'reviews': 11, 'score': 1.0, 'status': 'online', 'uid': '530'};2;26a6631b10b148b217942bd7d50e0e13;45.07764217839048;7.58082389831543;02. Dalla Chiesa / Pastrengo;2020-10-11T16:55:41.830000Z;5505381.508435546
+131;0;{'number': 3, 'reviews': 17, 'score': 3.7, 'status': 'offline', 'uid': '531'};0;d1bc8033c40ee5264cce8f47d5187fba;45.072338630573036;7.561769485473633;03. Leumann;2020-10-11T16:55:41.830000Z;
+132;1;{'number': 4, 'reviews': 87, 'score': 3.0, 'status': 'online', 'uid': '532'};1;c50124e7cca913343a6cbeba5e4b6cdb;45.07373275368509;7.601809501647949;04. Metro Paradiso;2020-10-11T16:55:41.830000Z;5503828.226176048
+133;0;{'number': 5, 'reviews': 11, 'score': 4.0, 'status': 'online', 'uid': '533'};3;8fa4807880ed26b205517a071dca0c21;45.115722339702245;7.613739967346191;05. Savonera;2020-10-11T16:55:41.830000Z;5505703.782711482
+134;5;{'number': 6, 'reviews': 76, 'score': 1.5, 'status': 'offline', 'uid': '534'};1;8ec03e61853d06f562d2d14b8a56a4a0;45.075960249379555;7.591949701309205;06. Fermi;2020-10-11T16:55:41.830000Z;5504582.322636871
+135;0;{'number': 7, 'reviews': 15, 'score': 2.8, 'status': 'offline', 'uid': '535'};0;f1d7621c4f2b581dc95871181eaddf7f;45.07894526052452;7.5743865966796875;07. Stazione F.S.;2020-10-11T16:55:41.830000Z;
+136;1;{'number': 8, 'reviews': 34, 'score': 1.4, 'status': 'offline', 'uid': '536'};0;f721695d488b071d3df077eb4a9d50bf;45.07270231814184;7.58030891418457;08. Gramsci;2020-10-11T16:55:41.830000Z;
+137;1;{'number': 9, 'reviews': 3, 'score': 2.4, 'status': 'online', 'uid': '1184'};1;89133cb9d5cfa00e1733665ec0ec7dbc;45.07746928803631;7.569552136909465;09. Municipio;2020-10-11T16:55:41.830000Z;5506074.182581234
+138;0;{'number': 1, 'reviews': 32, 'score': 3.8, 'status': 'online', 'uid': '583'};3;e8242fb035991ef3d83e93fb3b6fa97b;45.116903418249365;7.62300968170166;01. Concordia;2020-10-11T16:55:41.863000Z;5505199.0077575045
+139;0;{'number': 2, 'reviews': 14, 'score': 4.3, 'status': 'online', 'uid': '584'};2;bc2f3dac64e76a022c2869659614a6f5;45.129893668868284;7.631292343139648;02. Pettiti;2020-10-11T16:55:41.863000Z;5505492.779836147
+140;1;{'number': 3, 'reviews': 15, 'score': 3.9, 'status': 'online', 'uid': '585'};4;aeb1bf0a60459898301e9f798dbc17b7;45.12418619577999;7.632043361663818;03. C. Commerciale I Portici;2020-10-11T16:55:41.863000Z;5505089.7496337015
+141;0;{'number': 4, 'reviews': 24, 'score': 4.2, 'status': 'offline', 'uid': '586'};0;7e5a6293440ed4d665c26462cd114ff4;45.13532810578641;7.625691890716553;04. Reggia;2020-10-11T16:55:41.863000Z;
+142;0;{'number': 5, 'reviews': 13, 'score': 4.2, 'status': 'offline', 'uid': '587'};5;0c7ddac244be98e27b3249521685e480;45.127804527473224;7.635798454284668;05. Corso Garibaldi;2020-10-11T16:55:41.863000Z;5505081.215726122
+143;6;{'number': 6, 'reviews': 37, 'score': 4.2, 'status': 'online', 'uid': '588'};0;2aad166492e099938af239a535d770e3;45.133102925422556;7.632536888122559;06. Municipio;2020-10-11T16:55:41.863000Z;
+144;0;{'number': 7, 'reviews': 20, 'score': 3.0, 'status': 'offline', 'uid': '589'};0;a4792b55af4c2ed4730f24207b924ead;45.125836425730945;7.642192840576172;07. Buozzi;2020-10-11T16:55:41.863000Z;
+145;2;{'number': 8, 'reviews': 10, 'score': 4.1, 'status': 'online', 'uid': '590'};2;99d05089c79ad0acfd5d3acecaf2cd83;45.12489776867726;7.6529645919799805;08. San Marchese;2020-10-11T16:55:41.863000Z;5503828.84529719
+146;0;{'number': 10, 'reviews': 40, 'score': 4.5, 'status': 'offline', 'uid': '592'};0;f16cba9c6dc917e833eab7bf3e0168b7;45.114828943536864;7.641313076019287;10. Gallo Praile;2020-10-11T16:55:41.863000Z;
+147;0;{'number': 2, 'reviews': 11, 'score': 3.0, 'status': 'offline', 'uid': '593'};0;d6806ba5784a0d60f24f380a9b09a1cb;45.099654215224064;7.531235218048096;02. Berlinguer;2020-10-11T16:55:41.900000Z;
+148;0;{'number': 1, 'reviews': 16, 'score': 2.1, 'status': 'offline', 'uid': '594'};0;0df8838da4cf2ffe0eaf28629b902dd7;45.094383006473215;7.524325847625732;01. Municipio;2020-10-11T16:55:41.900000Z;
+149;0;{'number': 1, 'reviews': 20, 'score': 2.8, 'status': 'offline', 'uid': '595'};0;8bca5f91b24693d216f576525e7c1647;45.136100086850355;7.576360702514648;01. Largo Oropa;2020-10-11T16:55:41.930000Z;
+150;8;{'number': 2, 'reviews': 1, 'score': 1.0, 'status': 'online', 'uid': '1563'};2;d55bde750a05150e2bd91d020a5a743e;45.134345;7.576462;02. BIKE POINT Mandria;2020-10-11T16:55:41.930000Z;5509193.889998993
+151;14;{'number': 189, 'reviews': 219, 'score': 4.4, 'status': 'online', 'uid': '900'};1;78bf03a623351ed777d06aa163c2a7fe;45.08042420000004;7.730760400000008;Sassi;2020-10-11T16:55:41.761000Z;5496208.148909058
+152;13;{'number': 187, 'reviews': 4, 'score': 3.8, 'status': 'online', 'uid': '1285'};0;4e79bba70c39bd21e64bc4063c5ab09a;45.096708600000014;7.671545299999934;Giachino;2020-10-11T16:55:41.762000Z;
+153;0;{'number': 196, 'reviews': 302, 'score': 4.2, 'status': 'offline', 'uid': '519'};0;fb1ae7585d10d32066eb9fcba0a500f5;45.03441079999;7.6375261;San Remo;2020-10-11T16:55:41.761000Z;
+154;11;{'number': 195, 'reviews': 24, 'score': 3.5, 'status': 'online', 'uid': '528'};2;47a68b00853f1e0dad4edd46e31ad835;45.0309787;7.6118612;Orbassano 2;2020-10-11T16:55:41.761000Z;5500535.345837319
+155;0;{'number': 194, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '989'};2;004bff4fc3c11ceaf4fcb6280340c54c;45.0293578;7.618955;Settembrini;2020-10-11T16:55:41.761000Z;5499992.152532952
+156;12;{'number': 190, 'reviews': 1, 'score': 1.0, 'status': 'online', 'uid': '1287'};2;e423718a4a3950808bb7abde20469b8d;45.0894413;7.693284700000049;Palermo;2020-10-11T16:55:41.762000Z;5499104.324260444
+157;15;{'number': 199, 'reviews': 4, 'score': 3.6, 'status': 'online', 'uid': '1667'};0;055bfeb73e15dd3eb17558c483954eff;45.0787395;7.6928751;Palermo 2;2020-10-11T16:55:41.762000Z;
+158;7;{'number': 201, 'reviews': 1, 'score': 1.0, 'status': 'online', 'uid': '1668'};6;e09e8b7510812fc3ea7e6697b673b478;45.0926762;7.6857065;Cigna 2;2020-10-11T16:55:41.762000Z;5499778.183798795
+159;0;{'number': 9, 'reviews': 29, 'score': 4.7, 'status': 'offline', 'uid': '591'};0;dff9f20a6eb38d6a666eccb3cff13fd8;45.120052841530544;7.6485657691955575;09. Rigola;2020-10-11T16:55:41.863000Z;
+160;0;{'number': 140, 'reviews': 21, 'score': 3.8, 'status': 'under construction', 'uid': '1238'};0;e30f4a4bb0e02336189fa77b25f26f71;45.0698215;7.698546699999;Santa Giulia;2020-10-11T16:55:41.761000Z;
+161;8;{'number': 50, 'reviews': 858, 'score': 4.5, 'status': 'online', 'uid': '299'};1;75f7e1a9926635ef44f5e6a80bfdc09f;45.074594;7.690499;Regina Margherita 4;2020-10-11T16:55:41.761000Z;5498352.783967147
